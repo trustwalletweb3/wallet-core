@@ -1,4 +1,5 @@
-<img src="docs/banner.png" align="center" title="Trust logo">
+<img width="1330" height="613" alt="image" src="https://github.com/user-attachments/assets/bb80d573-664b-4543-ac69-a307cf89443a" />
+
 
 Trust Wallet is a secure, decentralized, and user-friendly cryptocurrency wallet that allows users to store, manage, and exchange a wide range of digital assets. It supports over 70 blockchains and hundreds of thousands of tokens, including Bitcoin (BTC), Ethereum (ETH), BNB, and various stablecoins and NFTs.
 
